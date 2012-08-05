@@ -3,8 +3,8 @@
     "name": "C-J Blomqvist",
     "email": "carl@cjblomqvist.com"
   },
-  "name": "fkStream",
-  "version": "0.1.0",
+  "name": "fkstream",
+  "version": "0.1.1",
   "repository": "git://github.com/cjblomqvist/fkstream.git",
   "contributors": [ 
     {
