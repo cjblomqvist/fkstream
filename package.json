@@ -5,6 +5,7 @@
   },
   "name": "fkStream",
   "version": "0.1.0",
+  "repository": "git://github.com/cjblomqvist/fkstream.git",
   "contributors": [ 
     {
       "name": "wookiehangover"
