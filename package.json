@@ -1,0 +1,28 @@
+{
+  "author": {
+    "name": "C-J Blomqvist",
+    "email": "carl@cjblomqvist.com"
+  },
+  "name": "fkStream",
+  "version": "0.1.0",
+  "contributors": [ 
+    {
+      "name": "wookiehangover"
+    },
+    {
+      "name": "burgalon"
+    } 
+  ],
+  "main": "./lib/index.js",
+  "dependencies": {
+    "knox": ">=0.1.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {
+    "ecstatic": "0.1.6",
+    "formidable": ">=1.0.10"
+  },
+  "engines": {
+    "node": "~0.6.0"
+  }
+}
