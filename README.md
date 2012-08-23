@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/cjblomqvist/fkstream.png)](http://travis-ci.org/cjblomqvist/fkstream)
 # streamr
 
 This is an experiment to see how well node can handle streaming file
